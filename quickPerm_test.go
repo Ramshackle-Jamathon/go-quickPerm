@@ -4,7 +4,7 @@ import (
 	"testing"
 	"fmt"
 
-	"github.com/Ramshackle-Jamathon/quickPerm"
+	"github.com/Ramshackle-Jamathon/go-quickPerm"
 	"github.com/stretchr/testify/assert"
 )
 
