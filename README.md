@@ -1,5 +1,5 @@
 # quickPerm
-The (quickperm)[http://www.quickperm.org/] algorithm implemented with Go
+The [quickperm](http://www.quickperm.org/) algorithm implemented with Go
 
 ## Example
 
